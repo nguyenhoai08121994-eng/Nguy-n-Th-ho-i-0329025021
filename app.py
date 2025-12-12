@@ -190,8 +190,8 @@ st.markdown("""
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
 <div class="main-header">
-    <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Sùng Văn Quý - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 097 4109 364</p>
+    <h1>📘 TRỢ LÝ SOẠN GIÁO Án lớp 123 (NLS)</h1>
+    <p>Tác giả: Nguyễn thị Hoài - Trường PTDTBT Tiểu học Mậu long - ĐT: 0329025021</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Sùng Văn Quý - Trường PTDTBT Tiểu học Đường Thượng - ĐT: 097 4109 364</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Nguyễn Thị Hoài - Trường PTDTBT Tiểu học mậu long - ĐT: 0329025021</div>", unsafe_allow_html=True)
